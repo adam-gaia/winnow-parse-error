@@ -1,6 +1,6 @@
 repository:
   name: winnow-parse-error
-  description: "TODO"
+  description: "Shortcut for using annotate-snippets with winnow"
   homepage: "https://github.com/adam-gaia/winnow-parse-error"
   topics:
     - TODO
