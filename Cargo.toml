@@ -10,7 +10,7 @@ authors = ["Adam Gaia <git@agaia.dev>"]
 include = ["src/**/*", "LICENSE-*", "README.md"]
 
 [dependencies]
-annotate-snippets = "0.11.5"
+annotate-snippets = "0.12.0"
 winnow = "0.7.10"
 
 [dev-dependencies]
